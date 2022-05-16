@@ -1,0 +1,4 @@
+"employee_id","first_name","last_name","email_id","mobile_no","flat_no","area","city","state","pincode","salary"
+"EID1","Peter","Graham","eid1@gmail.com","7649630981","7-09","block-6, IITP","Patna","Bihar","801106","25000"
+"EID2","Henry","Horrid","eid2@gmail.com","6749792290","3-09","block-6, IITP","Patna","Bihar","801106","25000"
+"EID3","Landon","Deca","eid3@gmail.com","7859773208","5-11","block-5, IITP","Patna","Bihar","801106","25000"

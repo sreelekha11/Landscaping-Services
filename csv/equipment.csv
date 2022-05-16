@@ -1,0 +1,6 @@
+"equipment_id","equipment_name","equipment_type","equipment_condition","repairing_status","description"
+"EQ1","Grass Trimmer","Gas powered","usable","No repair required","Used to provide a finishing edge against trees, sidewalks, and other lawn features. "
+"EQ2","Leaf Blower","Electric powered","usable","No repair required","The fastest, most efficient lawn care tool to wrangle up a large number of stray leaves."
+"EQ3","Hedge Trimmer","Electric Powered","usable","No repair required","A lightweight trimmer with padded, ergonomic handles."
+"EQ4","Grass Trimmer","Electric Powered","usable","No repair required","Used to provide a finishing edge against trees, sidewalks, and other lawn features."
+"EQ5","Shovel","wood-handled","sent for repairing","under repair","A garden tool for digging holes."

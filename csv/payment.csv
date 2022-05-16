@@ -1,0 +1,3 @@
+"payment_id","employee_id","date","amount","description"
+"PID1","EID1","2021-11-07","25833","Worked overtime of 24 hrs, 833.33/- extra payment credited with default payment."
+"PID2","EID2","2021-11-02","25000","Default payment."
