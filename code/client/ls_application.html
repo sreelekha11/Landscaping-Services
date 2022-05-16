@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Landscaping Service Application</title>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+		<link href="ls_application_style.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<div class="register">
+			<h1>Landscaping Service Application</h1>
+			<form action="ls_application.php" method="post" autocomplete="off">
+			    <label for="application_id">
+					<i class="fas fa-id-badge"></i>
+				</label>
+				<input type="text" name="application_id" placeholder="Application ID" id="application_id" required>
+				<label for="client_id">
+					<i class="fas fa-id-card"></i>
+				</label>
+				<input type="text" name="client_id" placeholder="ID" id="client_id" required>
+				<label for="mobile_no">
+					<i class="fas fa-mobile-alt"></i>
+				</label>
+				<input type="tel" name="mobile_no" placeholder="10-digit Mobile No" id="mobile_no" required>
+				<label for="email_id">
+					<i class="fas fa-envelope"></i>
+				</label>
+				<input type="email" name="email_id" placeholder="Email ID" id="email_id" required>
+				<label for="block_id">
+					<i class="fas fa-landmark"></i>
+				</label>
+				<input type="text" name="block_id" placeholder="Block ID" id="block_id" required>
+				<label for="route_id">
+					<i class="fas fa-landmark"></i>
+				</label>
+				<input type="text" name="route_id" placeholder="Route ID" id="route_id" required>
+				<label for="address">
+					<i class="fas fa-landmark"></i>
+				</label>
+				<input type="text" name="address" placeholder="Address" id="address" required>
+				<input type="submit" value="Submit">
+			</form>
+		</div>
+	</body>
+</html>
